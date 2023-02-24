@@ -80,7 +80,7 @@ header {
     transition: 0.5s;
 }
 
-.navbar a::after:hover {
+.navbar a:hover::after{
     width: 100%;
 }
 
